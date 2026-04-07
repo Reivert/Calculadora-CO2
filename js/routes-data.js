@@ -50,6 +50,7 @@ const RoutesDB = {
         { origin: "Belo Horizonte, MG", destination: "Uberlândia, MG", distanceKm: 543 },
         { origin: "Belo Horizonte, MG", destination: "Juiz de Fora, MG", distanceKm: 272 },
         
+        
         // Regional Routes - South Region
         { origin: "Porto Alegre, RS", destination: "Caxias do Sul, RS", distanceKm: 129 },
         { origin: "Porto Alegre, RS", destination: "Pelotas, RS", distanceKm: 261 },
@@ -59,7 +60,13 @@ const RoutesDB = {
         // Regional Routes - Northeast
         { origin: "Salvador, BA", destination: "Feira de Santana, BA", distanceKm: 108 },
         { origin: "Recife, PE", destination: "João Pessoa, PB", distanceKm: 120 },
-        { origin: "Fortaleza, CE", destination: "Juazeiro do Norte, CE", distanceKm: 491 }
+        { origin: "Fortaleza, CE", destination: "Juazeiro do Norte, CE", distanceKm: 491 },
+
+        // Regional Routes - Juiz de Fora
+        { origin: "Juiz de Fora, MG", destination: "Cabo Frio, RJ", distanceKm: 310 },
+        { origin: "Juiz de Fora, MG", destination: "Petrópolis, RJ", distanceKm: 118 },
+        { origin: "Juiz de Fora, MG", destination: "Rio de Janeiro, RJ", distanceKm: 186 },
+        { origin: "Juiz de Fora, MG", destination: "Ouro Preto, MG", distanceKm: 225 }
     ],
 
     /**
