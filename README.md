@@ -73,7 +73,7 @@ index.html          # Estrutura principal da página
 Clone o repositório:
 
 ```Bash
-git clone [https://github.com/seu-usuario/ecocalc-co2.git](https://github.com/seu-usuario/ecocalc-co2.git)
+git clone [https://github.com/Reivert/Calculadora-CO2](https://github.com/Reivert/Calculadora-CO2)
 ```
 Navegue até a pasta do projeto e abra o arquivo index.html em seu navegador ou utilize a extensão Live Server no VS Code.
 
