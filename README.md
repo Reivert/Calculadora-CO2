@@ -77,6 +77,10 @@ git clone [https://github.com/Reivert/Calculadora-CO2](https://github.com/Reiver
 ```
 Navegue até a pasta do projeto e abra o arquivo index.html em seu navegador ou utilize a extensão Live Server no VS Code.
 
+## 🔗 Acesse e visualize a calculadora no Github Pages
+
+[https://reivert.github.io/Calculadora-CO2/](https://reivert.github.io/Calculadora-CO2/)
+
 ## 📄 Licença
 Este projeto é fruto de um desafio educacional e está sob a licença MIT.
 
