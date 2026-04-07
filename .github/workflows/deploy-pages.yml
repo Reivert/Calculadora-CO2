@@ -1,3 +1,4 @@
+# This workflow deploys the contents of the repository to GitHub Pages whenever there is a push to the master branch.
 name: Deploy to GitHub Pages
 
 on:
